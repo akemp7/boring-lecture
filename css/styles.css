@@ -1,0 +1,19 @@
+h1{
+  text-align: center;
+}
+
+h2.intro{
+  font-style: italic;
+  color: green;
+  text-align: center;
+}
+
+p.intro{
+  font-family: fantasy;
+}
+
+img.intro{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
